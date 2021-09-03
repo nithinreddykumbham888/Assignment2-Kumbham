@@ -6,7 +6,7 @@
 *******
 # Creating Tables
  This table shows the food/drinks list and where it is available and the actual price of it.
-|   ###Food/Drink  |   ###Location  |   ###Price  |
+|   Food/Drink  |   Location  |   Price  |
 | ---------        |  ---------     |  ---------  |
 |   Biriyani       |   India        |   150 - 200 |
 |   Burgers        |   USA          |   100 - 150 |

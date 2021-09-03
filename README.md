@@ -33,6 +33,8 @@
 |   Sandwiches     |   UK           |   150 - 200 |  
 *******
 # Quotes
-> Be yourself; everyone else is already taken — *Oscar Wilde*
-> Success consists of going from failure to failure without loss of enthusiasm — *Winston Churchill*
+> Be yourself; everyone else is already taken — *Oscar Wilde*.
+>
+> Success consists of going from failure to failure without loss of enthusiasm — *Winston Churchill*.
+>
 > Good judgment comes from experience, and experience comes from bad judgment — *Barry LePatner*

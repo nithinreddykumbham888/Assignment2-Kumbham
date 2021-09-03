@@ -39,3 +39,8 @@
 > Success consists of going from failure to failure without loss of enthusiasm — *Winston Churchill*.
 >
 > Good judgment comes from experience, and experience comes from bad judgment — *Barry LePatner*
+*********
+# Code Fencing
+> Combinatorics is an area of mathematics primarily concerned with counting, both as a means and an end in obtaining results, and certain properties of finite structures. It is closely related to many other areas of mathematics and has many applications ranging from logic to statistical physics, from evolutionary biology to computer science, etc.
+>
+ link to source <https://cp-algorithms.com/algebra/factorial-divisors.html>

@@ -21,4 +21,4 @@
    * Boats
 *******
 * Link to AboutMe
-   [AboutMe](***https://github.com/nithinreddykumbham888/Assignment2-Kumbham/blob/master/AboutMe.md***)
+   [AboutMe](https://github.com/nithinreddykumbham888/Assignment2-Kumbham/blob/master/AboutMe.md)

@@ -6,8 +6,16 @@
 1. Start from Maryville by
    1. car
    2. bike
-1. Reach Kansas City and start again to Chicago by
+1. Reach Kansas City and start again to Miami by
    1. car
    2. bike
    3. plane
-2. We have reached the destination i.e Chicago
+2. We have reached the destination i.e Miami
+******
+#### Unordered List.
+* Items to be brought to Miami
+   * Tents or shelters
+   * Sunscreen
+   * Camera
+   * Clothes
+   * Boats

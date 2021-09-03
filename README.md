@@ -22,3 +22,17 @@
 *******
 * Link to AboutMe
    [AboutMe](https://github.com/nithinreddykumbham888/Assignment2-Kumbham/blob/master/AboutMe.md)
+*******
+# Creating Tables
+ This table shows the food/drinks list and where it is available and the actual price of it.
+|   Food/Drink  |   Location  |   Price  |
+| ---------        |  ---------     |  ---------  |
+|   Biriyani       |   India        |   150 - 200 |
+|   Burgers        |   USA          |   100 - 150 |
+|   Fast food      |   China        |   100 - 200 |
+|   Sandwiches     |   UK           |   150 - 200 |  
+*******
+# Quotes
+> Be yourself; everyone else is already taken — *Oscar Wilde*
+> Success consists of going from failure to failure without loss of enthusiasm — *Winston Churchill*
+> Good judgment comes from experience, and experience comes from bad judgment — *Barry LePatner*

@@ -43,7 +43,7 @@
 # Code Fencing
 > Combinatorics is an area of mathematics primarily concerned with counting, both as a means and an end in obtaining results, and certain properties of finite structures. It is closely related to many other areas of mathematics and has many applications ranging from logic to statistical physics, from evolutionary biology to computer science, etc.
 >
- link to source <https://cp-algorithms.com/algebra/factorial-divisors.html>
+ link to source <https://en.wikipedia.org/wiki/Combinatorics>
 * source code
 ```
 int fact_pow (int n, int k) {
@@ -55,3 +55,4 @@ int fact_pow (int n, int k) {
     return res;
 }
 ```
+ link to source code <https://cp-algorithms.com/algebra/factorial-divisors.html>
